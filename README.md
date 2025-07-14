@@ -4,3 +4,5 @@
 - `init.lua`
 ### Bash
 - `.bashrc`
+### OS-Packages
+- `ospkgs.txt`
