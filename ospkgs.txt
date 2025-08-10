@@ -3,6 +3,8 @@ g++
 nasm
 clang
 neovim
+nvi
+vim
 objdump
 zed
 vscode
